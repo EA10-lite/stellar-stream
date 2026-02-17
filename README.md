@@ -228,13 +228,7 @@ Contract:
 - `contracts/Cargo.toml`: Rust crate and Soroban dependency config.
 - `contracts/src/lib.rs`: Soroban contract implementation scaffold.
 
-Backlog drafts:
-- `issues/.gitkeep`: keeps folder in git.
-- `issues/01-onchain-stream-persistence.md`: on-chain persistence task draft.
-- `issues/02-freighter-wallet-connect.md`: wallet integration task draft.
-- `issues/03-contract-claim-transfer.md`: claim transfer task draft.
-- `issues/04-stream-history-indexer.md`: history/indexing task draft.
-- `issues/05-ui-validation-and-errors.md`: UI validation task draft.
+
 
 ## 9) Known Limitations
 
@@ -250,4 +244,5 @@ Backlog drafts:
 - Add wallet-authenticated transaction signing flow.
 - Add contract tests and backend integration tests.
 - Add persistent event/history storage for analytics.
+
 
